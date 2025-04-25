@@ -1,0 +1,10 @@
+{
+  "packageName": "mijin_openapi_client",
+  "projectName": "mijin-openapi-client",
+  "generateSourceCodeOnly": true,
+  "excludeTests": true,
+  "generateApiTests": false,
+  "generateModelTests": false,
+  "generateModelDocumentation": false,
+  "generateApiDocumentation": false
+}
