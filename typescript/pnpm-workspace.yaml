@@ -1,0 +1,3 @@
+packages:
+  - 'axios-client'
+  - 'react-query-client'
