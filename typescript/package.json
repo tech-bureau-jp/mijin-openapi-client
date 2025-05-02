@@ -1,0 +1,12 @@
+{
+  "name": "mijin-openapi-client",
+  "scripts": {
+    "generate": "orval --config orval.config.ts",
+    "build": "pnpm -r build",
+    "publish": "pnpm -r publish --access public --filter './*'"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.29.2",
+    "orval": "^7.9.0"
+  }
+}
